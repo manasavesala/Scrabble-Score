@@ -1,0 +1,15 @@
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.Tests.deps.json
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.Tests.runtimeconfig.json
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.Tests.runtimeconfig.dev.json
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.Tests.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.Tests.pdb
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp1.1\ScrabbleScore.pdb
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp1.1\ScrabbleScore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp1.1\ScrabbleScore.Tests.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp1.1\ScrabbleScore.Tests.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp1.1\ScrabbleScore.Tests.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp1.1\ScrabbleScore.Tests.pdb

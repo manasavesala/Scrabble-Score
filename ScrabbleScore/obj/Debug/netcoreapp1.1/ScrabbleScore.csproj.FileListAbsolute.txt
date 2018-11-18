@@ -1,0 +1,8 @@
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp1.1\ScrabbleScore.deps.json
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp1.1\ScrabbleScore.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\bin\Debug\netcoreapp1.1\ScrabbleScore.pdb
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp1.1\ScrabbleScore.csproj.CoreCompileInputs.cache
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp1.1\ScrabbleScore.AssemblyInfoInputs.cache
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp1.1\ScrabbleScore.AssemblyInfo.cs
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp1.1\ScrabbleScore.dll
+C:\Users\Murali Medisetty\Desktop\ScrabbleScore.Solution\ScrabbleScore\obj\Debug\netcoreapp1.1\ScrabbleScore.pdb
